@@ -8,3 +8,5 @@ ON LINUX USE
 ```
 npm run deploy-linux
 ```
+
+## --made by Pranay
