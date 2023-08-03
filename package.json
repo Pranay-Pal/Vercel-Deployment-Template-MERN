@@ -1,5 +1,5 @@
 {
-  "name": "vercel-deployment-template-mern",
+  "name": "bookstore",
   "version": "1.0.0",
   "type": "module",
   "private": true,
