@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "private": true,
-  "description": "Deploy express js to vercel.",
+  "description": "Template to deploy express js to vercel.",
+  "author": "Pranay Pal",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -15,7 +16,6 @@
     "deploy-linux": "npm run build ; vercel --prod"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "@iconify-icon/react": "^1.0.8",
