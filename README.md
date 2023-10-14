@@ -22,6 +22,8 @@ index.js & /api --> express app and backend
 
 -- or --
 
-clone ``` git clone https://github.com/Pranay-Pal/Vercel-Deployment-Template-MERN.git ```  
+clone ``` 
+git clone https://github.com/Pranay-Pal/Vercel-Deployment-Template-MERN.git 
+```  
 
 ## --made by Pranay
