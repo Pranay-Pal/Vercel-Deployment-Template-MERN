@@ -27,4 +27,4 @@ clone
 git clone https://github.com/Pranay-Pal/Vercel-Deployment-Template-MERN.git 
 ```  
 
-## --made by Pranay
+## --made by Pranay with ❤️
