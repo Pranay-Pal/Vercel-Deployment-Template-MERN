@@ -1,5 +1,5 @@
 {
-  "name": "bookstore",
+  "name": "vercel-mern",
   "version": "1.0.0",
   "type": "module",
   "private": true,
@@ -12,8 +12,7 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "deploy": "npm run build && vercel --prod",
-    "deploy-linux": "npm run build ; vercel --prod"
+    "deploy": "set +v ; npm run build ; vercel --prod ; echo [...Deployment Successful...] || @echo off && npm run build && vercel --prod &&  echo [...Deployment Successful...] || stty -echo && npm run build && vercel --prod &&  echo [...Deployment Successful...]"
   },
   "keywords": [],
   "license": "ISC",
