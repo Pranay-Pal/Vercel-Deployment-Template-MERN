@@ -1,5 +1,7 @@
 ## VERCEL DEPLOYMENT OF ENTIRE MERN APP
 
+![The Vercel Mern Deployment Image](VMDTI.jpg)
+
 > ***⚠️ This template, unlike most Express backends, uses MJS for better code readability.***
 > ***⚠️ Unlike most react frontend, this template, uses vite insted of create-react-app.***
 ## **VERCEL DEPLOYMENT**
