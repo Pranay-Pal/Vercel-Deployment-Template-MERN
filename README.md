@@ -17,6 +17,7 @@ npm run deploy
 Installation and usage for 1st time
 ```
 git clone https://github.com/Pranay-Pal/Vercel-Deployment-Template-MERN.git
+cd Vercel-Deployment-Template-MERN
 npm ci
 npm run build
 ``` 
